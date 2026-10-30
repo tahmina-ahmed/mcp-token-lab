@@ -1,0 +1,4 @@
+pyjwt>=2.8
+cryptography>=42
+cedarpy>=4.1
+pytest>=8
